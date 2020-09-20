@@ -1,1 +1,4 @@
-from todo import app
+from todo import main
+
+if __name__ == "__main__":
+    main()
